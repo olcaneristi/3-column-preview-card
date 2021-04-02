@@ -23,7 +23,7 @@ body {
 .card-items {
   display: flex;
   border-radius: 4px;
-  max-width: 95%;
+  max-width: 80%;
 }
 
 .card {
@@ -31,6 +31,7 @@ body {
   font-family: "Lexend Deca", sans-serif;
   font-size: 15px;
   padding: 45px;
+  width: 300px;
 }
 .card h2 {
   font-family: "Big Shoulders Display", cursive;
